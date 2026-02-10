@@ -1,1 +1,4 @@
-https://github.com/user-attachments/assets/a816a681-d606-4b4f-9b3c-396454b93776
+<p align="center">
+  <video src="https://github.com" width="100%" autoplay loop muted playsinline>
+  </video>
+</p>
